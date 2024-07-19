@@ -120,6 +120,4 @@ int main() {
 
 [Next &gt;&gt;](./2.README.md)
 
-```url
-https://img.shields.io/badge/next?link=.%2FREADME.md
-```
+[![next](https://img.shields.io/badge/Next >>-%238A2BE2.svg?logo=&logoColor=white)](./2.README.md "next page")
