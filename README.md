@@ -12,6 +12,8 @@
 8. **Error Handling (Exception Handling)**
 9. **Advanced Topics (Templates, Multithreading, etc.)**
 
+### 1. Basic Syntax and Data Types
+
 #### Basic Structure of a C++ Program
 
 A simple C++ program typically looks like this:
