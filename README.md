@@ -1,6 +1,6 @@
 # C++ - revision
 
-#### Specific topics or areas would you like to focus on? Some common areas to revise in C++ include:
+#### Specific topics or areas that we are focus on? Some common areas to revise in C++ include:
 
 1. **Basic Syntax and Data Types**
 2. **Control Structures (if, switch, loops)**
