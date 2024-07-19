@@ -119,3 +119,5 @@ int main() {
 ```
 
 [Next &gt;&gt;](./2.README.md)
+
+[![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](https://file+.vscode-resource.vscode-cdn.net/home/jera/Documents/C-Revision/2.README.md "next page")
