@@ -119,5 +119,3 @@ int main() {
 ```
 
 [Next &gt;&gt;](./2.README.md)
-
-[`<kbd>` `<br>` Next >> `<br>` `</kbd>`][./2.README.md]
