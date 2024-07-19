@@ -38,7 +38,8 @@ int main() {
 
 C++ provides several basic data types:
 
-1. **Integer types**: 
+1. **Integer types**:
+
    - `int`: Standard integer type.
    - `short`: Short integer type, usually smaller than `int`.
    - `long`: Long integer type, usually larger than `int`.
@@ -46,18 +47,22 @@ C++ provides several basic data types:
    - `unsigned`: Represents non-negative integers (can be used with `int`, `short`, `long`, etc.).
 
 2. **Floating-point types**:
+
    - `float`: Single-precision floating-point.
    - `double`: Double-precision floating-point.
    - `long double`: Extended-precision floating-point.
 
 3. **Character types**:
+
    - `char`: Represents a single character (typically 1 byte).
    - `wchar_t`: Wide character type.
 
 4. **Boolean type**:
+
    - `bool`: Represents boolean values (`true` or `false`).
 
 5. **Void type**:
+
    - `void`: Represents the absence of type (typically used for functions that do not return a value).
 
 #### Variable Declaration and Initialization
@@ -97,8 +102,9 @@ int main() {
 
 - `std::cin`: Used to receive input from the user.
 - `>>`: Extraction operator used to get the input value.
-  
+
 use the `using namespace std` to avoid `std::`
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -111,3 +117,7 @@ int main() {
     return 0;
 }
 ```
+
+[Next &gt;&gt;](./2.README.md)
+
+[`<kbd>` `<br>` Next >> `<br>` `</kbd>`][./2.README.md]
