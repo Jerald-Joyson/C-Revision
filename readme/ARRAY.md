@@ -135,4 +135,4 @@ int main() {
 }
 ```
 
-[![previous](https://img.shields.io/badge/%3C%3C%20Previous-%238A2BE2.svg?logo=&logoColor=white)](./readme/README.md "previous page") [![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./readme/2.README.md "next page")
+[![previous](https://img.shields.io/badge/%3C%3C%20Previous-%238A2BE2.svg?logo=&logoColor=white)](../README.md "previous page") [![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./2.README.md "next page")
