@@ -146,4 +146,10 @@ int main() {
 }
 ```
 
+
+
+### ****Learn more about Arrays   [![next](https://img.shields.io/badge/click me-%23678704.svg?logo=&logoColor=white)](./readme/ARRAY "next page")****
+
+
+
 [![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./readme/2.README.md "next page")

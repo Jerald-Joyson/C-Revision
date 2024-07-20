@@ -18,6 +18,9 @@ int main(){
 		for(unordered_set<int>::iterator it = ch.begin(); it != ch.end();it++){
 			cout<<*it<<endl;
 		}
+		// for(auto x:ch){
+		// 	cout<<x<<endl;
+		// }
 	}
 
 	return 0;
