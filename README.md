@@ -33,7 +33,7 @@ int main() {
 - `<< "Hello, World!"`: The insertion operator `<<` is used to send the string "Hello, World!" to the `cout` stream.
 - `std::endl`: Ends the line and flushes the buffer.
 - `return 0;`: Returns 0 to the operating system, indicating that the program ended successfully.
-- `using namespace std;: is a directive that tells the compiler to use the standard namespace. Namespaces are used in C++ to organize code into logical groups and to prevent name collisions that can occur especially when your code base includes multiple libraries.`
+- `using namespace std;`: is a directive that tells the compiler to use the standard namespace. Namespaces are used in C++ to organize code into logical groups and to prevent name collisions that can occur especially when your code base includes multiple libraries.
 
 Here’s what `using namespace std;` does:
 
