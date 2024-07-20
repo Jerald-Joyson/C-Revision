@@ -45,22 +45,18 @@ C++ provides several basic data types:
    - `long`: Long integer type, usually larger than `int`.
    - `long long`: An even larger integer type.
    - `unsigned`: Represents non-negative integers (can be used with `int`, `short`, `long`, etc.).
-
 2. **Floating-point types**:
 
    - `float`: Single-precision floating-point.
    - `double`: Double-precision floating-point.
    - `long double`: Extended-precision floating-point.
-
 3. **Character types**:
 
    - `char`: Represents a single character (typically 1 byte).
    - `wchar_t`: Wide character type.
-
 4. **Boolean type**:
 
    - `bool`: Represents boolean values (`true` or `false`).
-
 5. **Void type**:
 
    - `void`: Represents the absence of type (typically used for functions that do not return a value).
@@ -118,4 +114,4 @@ int main() {
 }
 ```
 
-[![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./2.README.md "next page")
+[![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./readme/2.README.md "next page")
