@@ -33,6 +33,38 @@ int main() {
 - `<< "Hello, World!"`: The insertion operator `<<` is used to send the string "Hello, World!" to the `cout` stream.
 - `std::endl`: Ends the line and flushes the buffer.
 - `return 0;`: Returns 0 to the operating system, indicating that the program ended successfully.
+- `using namespace std;`: is a directive that tells the compiler to use the standard namespace. Namespaces are used in C++ to organize code into logical groups and to prevent name collisions that can occur especially when your code base includes multiple libraries.
+
+Here’s what `using namespace std;` does:
+
+1. **Simplifies Code** : It allows you to use the standard library classes and functions without prefixing them with `std::`. For example, you can write `cout` instead of `std::cout` and `vector` instead of `std::vector`.
+2. **Convenience** : It is particularly useful in examples or smaller programs where using the full namespace notation would make the code harder to read.
+
+Here’s an example of a program with and without `using namespace std;`:
+
+**Without `using namespace std;`:**
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+
+**With `using namespace std;`:**
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+```
 
 #### Data Types
 
@@ -113,5 +145,11 @@ int main() {
     return 0;
 }
 ```
+
+
+
+### ****Learn more about Arrays   [![next](https://img.shields.io/badge/Click%20me%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./readme/ARRAY.md "array page")****
+
+
 
 [![next](https://img.shields.io/badge/Next%20%3E%3E-%238A2BE2.svg?logo=&logoColor=white)](./readme/2.README.md "next page")
