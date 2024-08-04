@@ -1,8 +1,3 @@
-# this bash script is for running C++ programs 
-# just add the program name as an argument
-# example: ./run.sh <programName>
-# this will automatically compile and run the given program
-
 #!/bin/bash
 
 if [ -z "$1" ]; then
@@ -27,3 +22,10 @@ if [ $? -ne 0 ]; then
 fi
 
 $EXECUTABLE
+
+if [ $? -eq 0 ]; then
+    rm "$EXECUTABLE"
+else
+    echo "Error: Program execution failed."
+    exit 1
+fi
